@@ -1,0 +1,25 @@
+﻿This file is created to give some extra functions that you can add to this project
+
+// you can print ASCII values by the following code
+
+ Keyboard.write(corresponding ASCII value); 
+ 
+ for example to print "a" you need to add the following code
+ 
+  Keyboard.write(97);     //ASCII value of "a" is 97 
+  
+  Keyboard.write(32);      // ASCII value of space bar is 32 
+  
+  follow this link to know more about ASCII characters  https://www.arduino.cc/en/Reference/ASCIIchart
+  
+  
+  
+  Keyboard Modifiers
+The Keyboard.write() and Keyboard.press() and Keyboard.release() commands don’t work with every possible ASCII character, only those that correspond to a key on the keyboard. For example, backspace works, but many of the other non-printable characters produce unpredictable results. For capital letters (and other keys), what’s sent is shift plus the character (i.e. the equivalent of pressing both of those keys on the keyboard).
+
+A modifier key is a special key on a computer keyboard that modifies the normal action of another key when the two are pressed in combination.
+
+follow this link to know more about Keyboard Modifiers https://www.arduino.cc/en/Reference/KeyboardModifiers
+
+
+

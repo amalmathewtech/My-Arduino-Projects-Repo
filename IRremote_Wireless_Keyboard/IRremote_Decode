@@ -1,0 +1,5 @@
+To decode the signals from IRremote you can use Example code(IRrecvDemo) from IRremote Library 
+
+Upload the code to the board and obtain the signal values on serial monitor.
+replace the signal values on (IRremote_wireless_Keyboard.ino) for modification.
+
