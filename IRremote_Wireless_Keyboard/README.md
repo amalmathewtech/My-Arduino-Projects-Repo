@@ -14,5 +14,16 @@ https://www.arduino.cc/en/Reference/KeyboardModifiers
 https://www.arduino.cc/en/Reference/ASCIIchart
 
 
+
+![5](https://user-images.githubusercontent.com/26376366/94463764-14997900-01db-11eb-9de0-5f4c724761aa.png)
+[url](https://twitter.com/arduino/status/980797578056028160)
+![6](https://user-images.githubusercontent.com/26376366/94463750-0fd4c500-01db-11eb-99d7-8511121d08cf.png)
+[url](https://twitter.com/MicrochipMakes/status/980843408196501504)
+![4](https://user-images.githubusercontent.com/26376366/94463763-13684c00-01db-11eb-9cb5-237784732e80.png)
+[url](https://twitter.com/Hacksterio/status/980443184097619968)
+
+
+
+
 Made With ❤ in OpenSource
 
