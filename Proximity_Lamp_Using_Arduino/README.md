@@ -6,10 +6,10 @@ Capacitive SensorLibrary Link: https://github.com/arduino-libraries/CapacitiveSe
 
 Project Details: https://www.hackster.io/amalmathewtech/proximity-lamp-using-arduino-00cdcf
 
+<img src="https://user-images.githubusercontent.com/26376366/94464286-e7999600-01db-11eb-9b28-fe35e744940a.png" width="400" height="400" >
+https://twitter.com/Hacksterio/status/1047267723208794112
 
-![14](https://user-images.githubusercontent.com/26376366/94464286-e7999600-01db-11eb-9b28-fe35e744940a.png)
-[url](https://twitter.com/Hacksterio/status/1047267723208794112)
-![13](https://user-images.githubusercontent.com/26376366/94464293-ea948680-01db-11eb-8a90-6c430298eb11.png)
-[url](https://twitter.com/arduino/status/1046769648497291264)
+<img src="https://user-images.githubusercontent.com/26376366/94464293-ea948680-01db-11eb-8a90-6c430298eb11.png" width="400" height="400" >
+https://twitter.com/arduino/status/1046769648497291264
 
 Made With ❤ in OpenSource
